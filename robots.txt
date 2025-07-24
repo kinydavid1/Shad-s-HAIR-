@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kinydavid1.github.io/Shad-s-HAIR-/sitemap.xml
